@@ -4,7 +4,7 @@ import Main from "../components/ui/Main";
 
 export default function Home() {
   return (
-    <main>
+    <>
       <Head>
         <title>Jack Latimer - Home</title>
         <meta name="description" content="" />
@@ -12,6 +12,6 @@ export default function Home() {
       </Head>
       <Header />
       <Main />
-    </main>
+    </>
   );
 }
