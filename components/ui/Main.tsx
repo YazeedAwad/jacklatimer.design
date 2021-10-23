@@ -30,21 +30,21 @@ export default function Main() {
               <img
                 className="w-full  mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
 
@@ -52,63 +52,63 @@ export default function Main() {
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
               />
             </div>
-            <div className="xl:w-1/3 md:w-1/2 p-4">
-            <img
-              className="w-full object-cover object-center mb-6"
-              src="https://jacklatimer.design/images/placeholder.png"
-              alt="content"
-            />
-          </div>
             <div className="xl:w-1/3 md:w-1/2 p-4">
               <img
                 className="w-full object-cover object-center mb-6"
                 src="https://jacklatimer.design/images/placeholder.png"
-                alt="content"
+                alt="Design"
+              />
+            </div>
+            <div className="xl:w-1/3 md:w-1/2 p-4">
+              <img
+                className="w-full object-cover object-center mb-6"
+                src="https://jacklatimer.design/images/placeholder.png"
+                alt="Design"
               />
             </div>
           </div>
